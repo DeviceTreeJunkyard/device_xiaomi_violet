@@ -185,7 +185,6 @@ PRODUCT_PACKAGES += \
     gralloc.qcom \
     hwcomposer.qcom \
     libtinyxml \
-    libvulkan \
     vendor.qti.hardware.display.allocator-service \
     vendor.qti.hardware.memtrack-service
 
